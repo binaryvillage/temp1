@@ -2,6 +2,7 @@ package tempprj1;
 
 public class Class5 {
 //Added by User1
+
 	/**
 	 * new update from user 1
 	 * 
@@ -11,4 +12,17 @@ public class Class5 {
 	 * 
 	 * new update from user1
 	 */
+
+	/*Updated by User2
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * Updated ny user2
+	 */
+	
+	
+	
+>>>>>>> branch 'master' of https://github.com/binaryvillage/temp1
 }
