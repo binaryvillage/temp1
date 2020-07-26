@@ -13,7 +13,8 @@ public class Class5 {
 	 * new update from user1
 	 */
 
-	/*Updated by User2
+	/*
+	 * Updated by User2
 	 * 
 	 * 
 	 * 
@@ -21,8 +22,5 @@ public class Class5 {
 	 * 
 	 * Updated ny user2
 	 */
-	
-	
-	
->>>>>>> branch 'master' of https://github.com/binaryvillage/temp1
+
 }
