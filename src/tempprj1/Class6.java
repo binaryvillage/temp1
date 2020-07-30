@@ -10,6 +10,4 @@ public class Class6 {
 	// Version 3
 
 	// version 4
-
-	// version 7
 }
