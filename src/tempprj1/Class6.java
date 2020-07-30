@@ -8,4 +8,6 @@ public class Class6 {
 	// version 2
 
 	// Version 3
+
+	// version 4
 }
