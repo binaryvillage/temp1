@@ -19,4 +19,6 @@ public class Class6 {
 
 	// version 22
 
+	// version 23
+
 }
