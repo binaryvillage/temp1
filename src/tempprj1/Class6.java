@@ -21,4 +21,6 @@ public class Class6 {
 
 	// version 23
 
+	// version 24
+
 }
